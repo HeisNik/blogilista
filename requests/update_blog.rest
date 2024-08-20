@@ -1,0 +1,8 @@
+PUT http://localhost:3001/api/blogs/66bcb7e740d9c67f153abac8
+Content-Type: application/json
+
+{
+  "author": "jee",
+  "url": "https://wwaki-hintsa-voittamisen-anatomia?variant=21150604886105&gad_source=1&gclid=CjwKCAjw2dG1BhB4EiwA998cqHLLXVprkYJ5Q_4NKEq9WZnBJ6BVvbt5BONPbtGjZOORqkBhpTEIQBoCelQQAvD_BwE",
+  "likes": 22
+}
